@@ -276,7 +276,7 @@
     <bool name="config_supportSpeakerNearUltrasound">false</bool>
     
     <!-- Enable Hardware key flag -->
-    <bool name="confog_hwKeysPref">true</bool>
+    <bool name="config_hwKeysPref">true</bool>
 
     <!-- Config determines whether to update phone object when voice registration
          state changes. Voice radio tech change will always trigger an update of
